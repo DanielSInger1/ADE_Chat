@@ -61,6 +61,6 @@
 
 <p>Now you can use the web application with the React client running on <code>localhost:3000</code> and the server running on <code>localhost:5000</code>.</p>
 
-<h2>import notes for the checker</h2>
+
 
 
